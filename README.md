@@ -1,23 +1,24 @@
-# ReaPack Repository Template
+Minh GPThi Reaper Collecction
+All of Minh Thi for Reaper
 
-A template for GitHub-hosted ReaPack repositories with automated
-[reapack-index](https://github.com/cfillion/reapack-index)
-running from GitHub Actions.
+Installation
+This repository is available for installation via ReaPack (https://reapack.com/).
 
-Replace the name of the repository in [index.xml](/index.xml) when using this template.
-This will be the name shown in ReaPack.
+In REAPER, go to Extensions > Reapack > Import repositories....
 
-```xml
-<index version="1" name="Name of your repository here">
-```
+Paste the following URL into the address field: https://github.com/bjmbjm207/Minh-GPThi-Reaper/raw/master/index.xml
 
-Replace the contents of this file ([README.md](/README.md)).
-This will be the text shown when using ReaPack's "About this repository" feature.
+Click OK.
 
-reapack-index looks for package files in subfolders.
-The folder tree represents the package categories shown in ReaPack.
+Go to Extensions > Reapack > Browse packages.... You can now find, install, and update the scripts and plugins from this repository.
 
-Each package file is expected to begin with a metadata header.
-See [Packaging Documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation) on reapack-index's wiki.
+Available Packages
+This repository includes a variety of tools to enhance your workflow.
 
-The URL to import in ReaPack is [https://github.com/`<your username>`/`<repository name>`/raw/master/index.xml](https://github.com/cfillion/reapack-repository-template/raw/master/index.xml).
+After installation via ReaPack:
+ReaScripts can be found and run from the REAPER Action List (Actions > Show action list...).
+JSFX Plugins will be available in your FX Browser.
+
+Author
+Minh Thi from MT Studio
+My studio website: mtstudio.space
