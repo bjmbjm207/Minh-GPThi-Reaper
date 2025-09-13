@@ -1,13 +1,29 @@
--- @description Auto last slot FX for VU Meter
--- @version 1.00
--- @author Minh GPThi
--- @website https://github.com/bjmbjm207/Minh-GPThi-Reaper
--- @metapackage
--- @provides
---    [main] . > Auto last slot FX for VU Meter.lua
--- @changelog
---    # Initial release
--- @donation https://mtstudio.space/donate
+--[[
+**PackageTags**
+@about
+  - Auto slot FX VU Meter to last position in FX chain
+  - Easy to Gain Staging after add new FX
+@description Auto last slot FX for VU Meter
+@donation https://mtstudio.space/donate
+@link
+  - MT STUDIO https://mtstudio.space
+  - Minh Thi https://youtube.com/@toilamotcaicayy
+@version 1.00
+**VersionTags**
+@author Minh GPThi
+@about
+  - A helper script to generate sound effects using the ElevenLabs API.
+  - Supports generating audio from the text box or from the notes of multiple selected items.
+  - Based on the original Hosi - ElevenLabs TTS script.
+@changelog
+  + v1.0 (2025-09-14)
+    - Initial release.
+@provides
+    [main] . > Auto last slot FX for VU Meter.lua
+@reaper_version 7.0
+@depends ReaTeam Extensions/API/reaper_imgui.ext
+--]]
+
 --[
 -- VU-mover toggleable script (version C: move VU immediately on start + monitor)
 -- Behavior:
