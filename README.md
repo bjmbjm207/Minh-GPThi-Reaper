@@ -1,24 +1,30 @@
-Minh GPThi Reaper Collecction
-All of Minh Thi for Reaper
+# Minh GPThi Collection for REAPER
 
-Installation
+A collection of useful ReaScripts and JSFX plugins for REAPER (https://www.reaper.fm/), created by Minh Thi
+
+## Installation
+
 This repository is available for installation via ReaPack (https://reapack.com/).
 
-In REAPER, go to Extensions > Reapack > Import repositories....
+1.  In REAPER, go to `Extensions > Reapack > Import repositories...`.
+2.  Paste the following URL into the address field:
+    [https://github.com/bjmbjm207/Minh-GPThi-Reaper/raw/master/index.xml](https://github.com/bjmbjm207/Minh-GPThi-Reaper/raw/master/index.xml)
+    
+3.  Click **OK**.
+4.  Go to `Extensions > Reapack > Browse packages...`. You can now find, install, and update the scripts and plugins from this repository.
 
-Paste the following URL into the address field: https://github.com/bjmbjm207/Minh-GPThi-Reaper/raw/master/index.xml
+## Available Packages
 
-Click OK.
-
-Go to Extensions > Reapack > Browse packages.... You can now find, install, and update the scripts and plugins from this repository.
-
-Available Packages
 This repository includes a variety of tools to enhance your workflow.
 
-After installation via ReaPack:
-ReaScripts can be found and run from the REAPER Action List (Actions > Show action list...).
-JSFX Plugins will be available in your FX Browser.
+## Usage
 
-Author
-Minh Thi from MT Studio
-My studio website: mtstudio.space
+After installation via ReaPack:
+
+  * **ReaScripts** can be found and run from the REAPER Action List (`Actions > Show action list...`).
+  * **JSFX Plugins** will be available in your FX Browser.
+
+## Author
+
+  * **Minh Thi** ([Minh Thi from MT STUDIO](https://profile.mtstudio.space))
+  * **My Studio Website:** https://mtstudio.tech
