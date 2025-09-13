@@ -6,8 +6,8 @@
 @description Auto last slot FX for VU Meter
 @donation https://mtstudio.space/donate
 @link
-  - MT STUDIO https://mtstudio.space
-  - Minh Thi https://youtube.com/@toilamotcaicayy
+    MT STUDIO https://mtstudio.space
+    Minh Thi https://youtube.com/@toilamotcaicayy
 @version 1.00
 **VersionTags**
 @author Minh GPThi
@@ -16,8 +16,6 @@
     - Initial release.
 @provides
     [main] . > Auto last slot FX for VU Meter.lua
-@reaper_version 7.0
-@depends ReaTeam Extensions/API/reaper_imgui.ext
 --]]
 
 --[
