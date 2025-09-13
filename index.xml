@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Minh GPThi Developer" commit="6504cd03016a65370d3d947895904ffc280a9b21">
+<index version="1" name="Minh GPThi Developer" commit="7caa502b0a74b3791487cd1e9d25e1c9d3c93e1b">
   <category name="ReaScript/Utilities">
     <reapack name="Auto last slot FX for VU Meter.lua" type="script" desc="Auto last slot FX for VU Meter">
       <metadata>
@@ -7,9 +7,8 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab A helper script to generate sound effects using the ElevenLabs API.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Supports generating audio from the text box or from the notes of multiple selected items.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Based on the original Hosi - ElevenLabs TTS script.\sa180\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Auto slot FX VU Meter to last position in FX chain\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Easy to Gain Staging after add new FX\sa180\par}
 }
 ]]></description>
         <link rel="website" href="https://mtstudio.space">- MT STUDIO</link>
