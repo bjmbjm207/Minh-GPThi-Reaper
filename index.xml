@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Minh GPThi Developer" commit="62f50411ed6941efeca36ee12f7f552206306961">
+<index version="1" name="Minh GPThi Developer" commit="6504cd03016a65370d3d947895904ffc280a9b21">
   <category name="ReaScript/Utilities">
     <reapack name="Auto last slot FX for VU Meter.lua" type="script" desc="Auto last slot FX for VU Meter">
       <metadata>
-        <link rel="website">https://github.com/bjmbjm207/Minh-GPThi-Reaper</link>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab A helper script to generate sound effects using the ElevenLabs API.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Supports generating audio from the text box or from the notes of multiple selected items.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Based on the original Hosi - ElevenLabs TTS script.\sa180\par}
+}
+]]></description>
+        <link rel="website" href="https://mtstudio.space">- MT STUDIO</link>
+        <link rel="website" href="https://youtube.com/@toilamotcaicayy">- Minh Thi</link>
         <link rel="donation">https://mtstudio.space/donate</link>
       </metadata>
       <version name="1.00" author="Minh GPThi" time="2025-09-13T16:49:51Z">
