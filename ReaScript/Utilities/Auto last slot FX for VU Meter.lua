@@ -11,10 +11,6 @@
 @version 1.00
 **VersionTags**
 @author Minh GPThi
-@about
-  - A helper script to generate sound effects using the ElevenLabs API.
-  - Supports generating audio from the text box or from the notes of multiple selected items.
-  - Based on the original Hosi - ElevenLabs TTS script.
 @changelog
   + v1.0 (2025-09-14)
     - Initial release.
