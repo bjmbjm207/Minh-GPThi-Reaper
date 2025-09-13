@@ -27,4 +27,4 @@ After installation via ReaPack:
 ## Author
 
   * **Minh Thi** ([Minh Thi from MT STUDIO](https://profile.mtstudio.space))
-  * **My Studio Website:** https://mtstudio.tech
+  * **My Studio Website:** https://mtstudio.space
